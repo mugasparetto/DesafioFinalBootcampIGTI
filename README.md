@@ -2,6 +2,10 @@
 
 Projeto criado ao fim do Bootcamp Desenvolvedor Full Stack do Instituto de Gestão da Tecnologia da Informação.
 
+Disponível em: https://mgasparetto-desafio-final-igti.herokuapp.com/
+
+---
+
 Para rodar o **backend** em sua máquina você deve:
 * Acessar o diretório raiz
 ```sh
