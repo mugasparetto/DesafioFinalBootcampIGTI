@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8080/api/transaction';
+const API_URL = 'https://mgasparetto-desafio-final-igti.herokuapp.com/api/transaction';
 
 const getTransactionsByPeriod = async (period) => {
   const res = await axios.get(`${API_URL}?period=${period}`);
