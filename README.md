@@ -11,6 +11,11 @@ $ cd DesafioFinalBootcampIGTI
 ```sh
 $ yarn
 ```
+* Criar um arquivo .env com o seguinte modelo:
+
+`MONGODB= <string de conexão com o mongo>`
+
+`PORT=<número da porta que desejar>`
 * Subir o servidor usando
 ```sh
 $ yarn server
